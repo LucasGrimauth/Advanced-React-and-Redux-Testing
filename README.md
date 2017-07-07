@@ -2,4 +2,4 @@
 
 ### This is a repository to practice the course activities
 
-[Original code](https://github.com/StephenGrider/ReduxSimpleStarter)?
+[Original code](https://github.com/StephenGrider/ReduxSimpleStarter)
